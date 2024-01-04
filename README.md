@@ -14,7 +14,7 @@
 
 ## Installation
 
-Install my-project with npm
+Run project
 
 ```bash
 $ git clone https://github.com/saeedsh78/todo-list
